@@ -61,7 +61,7 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 
 ## Author
   
-  MEGHA SHREE @
+  MEGHA SHREE @Meghashree256
 
 ## License
 
